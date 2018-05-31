@@ -1,0 +1,17 @@
+# File types
+*.db
+*.pyc
+*.swo
+*.swp
+*.swn
+*.log
+*.mo
+*.sql
+*.sqlite3
+
+# OS files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
